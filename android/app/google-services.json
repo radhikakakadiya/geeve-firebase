@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384251207983",
+    "project_id": "geeve-firebase-593b7",
+    "storage_bucket": "geeve-firebase-593b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384251207983:android:68ee86012a0ae6916881da",
+        "android_client_info": {
+          "package_name": "com.example.geeve_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9zvDMepeD0gTgxDxOfVo7W0ecSqzWaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
